@@ -24,7 +24,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Prompt:wght@100;200;300;400;500;600;700;800&display=swap" rel="stylesheet">
-    
+
 
     <!--==============================
 	    All CSS File
@@ -47,7 +47,7 @@
 </head>
 
 <body>
-        <!--********************************
+    <!--********************************
    		Code Start From Here 
 	******************************** -->
 
@@ -78,7 +78,7 @@
                     <p class="about-text">Lorem ipsum dolor sit amet consectetur adipiscing elit sociosqu integer, suscipit nascetur aliquet posuere aptent vehicula ligula pulvinar praesent.</p>
                     <div class="social-btn style2">
                         <a href="https://www.facebook.com/"><i class="fab fa-facebook"></i></a>
-                        <a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>                            
+                        <a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
                         <a href="https://pinterest.com/"><i class="fab fa-pinterest-p"></i></a>
                         <a href="https://instagram.com/"><i class="fab fa-instagram"></i></a>
                     </div>
@@ -110,42 +110,21 @@
                     <li class="menu-item-has-children">
                         <a href="#">Home</a>
                     </li>
+                    <li><a href="about.php">About Page</a></li>
                     <li class="menu-item-has-children">
-                        <a href="#">Pages</a>
-                        <ul class="sub-menu">
-                            <li><a href="about.php">About Page</a></li>
-                            <li><a href="team.php">Team Page</a></li>
-                            <li><a href="team-details.php">Team Details</a></li>
-                            <li><a href="faq.php">FAQ Page</a></li>
-                            <li><a href="reservation.php">Reservation Page</a></li>
-                            <li><a href="pricing.php">Pricing Page</a></li>
-                        </ul>
+                        <a href="portfolio.php">Portfolio</a>
                     </li>
                     <li class="menu-item-has-children">
-                        <a href="#">Portfolio</a>
-                        <ul class="sub-menu">
-                            <li><a href="project.php">Case Studies Page</a></li>
-                            <li><a href="project-2.php">Portfolio Showcase Page</a></li>
-                            <li><a href="project-details.php">Portfolio Details</a></li>
-                        </ul>
+                        <a href="blog.php">Blog</a>
                     </li>
                     <li class="menu-item-has-children">
-                        <a href="#">Blog</a>
-                        <ul class="sub-menu">
-                            <li><a href="blog.php">Blog</a></li>
-                            <li><a href="blog-details.php">Blog Details</a></li>
-                        </ul>
-                    </li>
-                    <li class="menu-item-has-children">
-                        <a href="#">Shop</a>
-                        <ul class="sub-menu">
-                            <li><a href="shop.php">Shop Grid</a></li>
-                            <li><a href="shop-2.php">Shop grid with sidebar</a></li>
-                            <li><a href="shop-details.php">Shop Details</a></li>
-                        </ul>
+                        <a href="pricing.php">Packages</a>
                     </li>
                     <li>
                         <a href="contact.php">Contact</a>
+                    </li>
+                    <li class="menu-item-has-children">
+                        <a href="faqs.php">FAQs</a>
                     </li>
                 </ul>
             </div>
@@ -190,7 +169,7 @@
                     <div class="row align-items-center justify-content-between">
                         <div class="col-auto">
                             <div class="header-logo">
-                                <a href="index.php"><img src="assets/img/logo3.svg" alt="logo"></a>
+                                <a href="index.php"><img src="assets/img/ankit.png" style="height: 75px; width: 150px;" alt="logo"></a>
                             </div>
                         </div>
                         <div class="col-auto">
@@ -199,42 +178,22 @@
                                     <li class="menu-item-has-children">
                                         <a href="/">Home</a>
                                     </li>
+                                    <li><a href="about.php">About Page</a></li>
                                     <li class="menu-item-has-children">
-                                        <a href="#">Pages</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="about ">About Page</a></li>
-                                            <li><a href="team.php">Team Page</a></li>
-                                            <li><a href="team-details.php">Team Details</a></li>
-                                            <li><a href="faq.php">FAQ Page</a></li>
-                                            <li><a href="reservation.php">Reservation Page</a></li>
-                                            <li><a href="pricing.php">Pricing Page</a></li>
-                                        </ul>
+                                        <a href="portfolio.php">Portfolio</a>
                                     </li>
                                     <li class="menu-item-has-children">
-                                        <a href="#">Portfolio</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="project.php">Case Studies Page</a></li>
-                                            <li><a href="project-2.php">Portfolio Showcase Page</a></li>
-                                            <li><a href="project-details.php">Portfolio Details</a></li>
-                                        </ul>
+                                        <a href="blog.php">Blog</a>
                                     </li>
                                     <li class="menu-item-has-children">
-                                        <a href="#">Blog</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="blog.php">Blog</a></li>
-                                            <li><a href="blog-details.php">Blog Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children">
-                                        <a href="#">Shop</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="shop.php">Shop Grid</a></li>
-                                            <li><a href="shop-2.php">Shop grid with sidebar</a></li>
-                                            <li><a href="shop-details.php">Shop Details</a></li>
-                                        </ul>
+                                        <a href="pricing.php">Packages</a>
                                     </li>
                                     <li>
                                         <a href="contact.php">Contact</a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="faqs.php">FAQs</a>
                                     </li>
                                 </ul>
                             </nav>
@@ -245,7 +204,7 @@
                         <div class="col-auto d-none d-lg-block">
                             <div class="header-button">
                                 <button type="button" class="sidebar-btn sideMenuToggler">
-                                    Menu                                        
+                                    Menu
                                 </button>
                             </div>
                         </div>
@@ -254,3 +213,4 @@
             </div>
         </div>
     </header>
+    

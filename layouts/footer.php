@@ -10,9 +10,9 @@
                         <div class="widget footer-widget">
                             <div class="widget-about">
                                 <div class="footer-logo">
-                                    <a href="index.html"><img src="assets/img/logo-white.svg" alt="logo"></a>
+                                    <a href="index.html"><img src="assets/img/ankit.png" alt="logo"></a>
                                 </div>
-                                <p class="copyright-text">© 2023 <a href="#">Ovation.</a> Reserved by <a href="https://themeforest.net/user/themepul">Themepul</a>.</p>
+                                <p class="copyright-text">© 2024 <a href="#">Ankit Digital Lab.</a> Reserved by Web Ignetor .</p>
                             </div>
                         </div>
                     </div>
